@@ -25,3 +25,12 @@
     <img src="https://skillicons.dev/icons?i=spring,hibernate,java,idea,mysql" />
 </div>
 
+<div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tronkishere&show_icons=true&theme=dark&locale=en&layout=compact" alt="tronkishere" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tronkishere&show_icons=true&theme=dark&locale=en" alt="tronkishere" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tronkishere&theme=dark" alt="tronkishere" /></p>
+</div>
+
+
