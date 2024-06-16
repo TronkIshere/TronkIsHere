@@ -26,13 +26,24 @@
 </div>
 
 <br/>
-<div align="center">    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tronkishere&show_icons=true&theme=dark&locale=en&layout=compact" alt="tronkishere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tronkishere&theme=dark" alt="tronkishere" /></p>
+<table style="width: 100%">
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/nguyenhuutrong11133?theme=dark&font=Roboto%20Flex&ext=activity" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tronkishere&show_icons=true&theme=dark&locale=en&layout=compact" alt="tronkishere" /></p>
+      <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tronkishere&theme=dark" alt="tronkishere" /></p>
+    </td>
+  </tr>
+</table>
+
 
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tronkishere" alt="tronkishere" /></a> </p>
+
+
 </div>
 
 
