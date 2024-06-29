@@ -42,6 +42,14 @@
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tronkishere" alt="tronkishere" /></a> </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TronkIsHere&theme=2077" alt="Profile Details" style="max-width: 45%;">
+</p>
+
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TronkIsHere&theme=2077" alt="Stats" style="max-width: 45%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TronkIsHere&theme=2077" alt="Stats" style="max-width: 45%;">
+</p>
 
 </div>
 
