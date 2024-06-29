@@ -53,6 +53,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TronkIsHere&theme=2077" alt="Stats" style="max-width: 45%;">
 </p>
 
+<p align="center">
+<img src="https://safebooru.org//images/4426/25fe65cbd2f79138d845887dcf2fdbe472fdc439.gif" alt="Centered GIF" style="max-width: 100%; height: auto;">
+</p>
+
 </div>
 
 
