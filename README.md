@@ -27,9 +27,9 @@
     <!-- Backend -->
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs" />
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,vite,npm,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,vite,npm,docker,postman" />
     <!-- Database -->
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </div>
 
 <br/>
