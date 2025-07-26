@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,js,typescript,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,js,typescript,dart,flutter" />
     <!-- Backend -->
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs" />
     <!-- Tools -->
