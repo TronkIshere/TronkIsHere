@@ -47,6 +47,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_timezone: Asia/Ho_Chi_Minh
+          plugins_errors_fatal: yes
+          debug: yes
 
       - uses: lowlighter/metrics@latest
         with:
@@ -81,6 +83,8 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_limit: 8
           plugin_achievements_secrets: no
+          plugins_errors_fatal: yes
+          debug: yes
 
       - uses: lowlighter/metrics@latest
         with:
