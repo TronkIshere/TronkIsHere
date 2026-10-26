@@ -1,70 +1,87 @@
-<p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1709660933254312726/649C006B7A8D8EE5420B99F1F7311DB19AB263AB/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Centered GIF" style="max-width: 100%; height: auto;">
-</p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trong;" />
-</h1>
+# Nguyễn Hữu Trọng
 
-<h3 align="center">I am a Back-End Software Engineer</h3>
+**Software Developer · Mobile, Backend & Assistive Technology**
 
-<br/>
+Fourth-year university student building production systems beyond coursework.
 
-<div align="center">
- 
- 🔭 I'm currently in my second year
- 
- 🌱 I’m currently learning baisc Spring Boot, Spring Security & Reactjs
+[![Followers](https://img.shields.io/github/followers/TronkIsHere?style=flat-square&logo=github&label=Followers&color=0d1117&labelColor=161b22)](https://github.com/TronkIsHere)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nguyenhuutrong11133-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=161b22)](https://leetcode.com/u/nguyenhuutrong11133)
 
-⚡ My hobbies are learning new technologies and playing games
+- Full-stack development with Flutter, Spring Boot and Django
+- Assistive technology, speech and ML services, backend architecture
+- Containerized deployment with Docker
 
- </div>
+## Tech Stack
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,js,typescript,dart,flutter" />
-    <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs" />
-    <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,vite,npm,docker,postman" />
-    <!-- Database -->
-    <img src="https://skillicons.dev/icons?i=mysql,redis" />
-</div>
+**Mobile & Frontend** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<br/>
+**Backend** &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<table style="width: 100%">
+**Database** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Infrastructure** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+## GitHub Metrics
+
+## GitHub Metrics
+
+<table width="100%">
   <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/nguyenhuutrong11133?theme=dark&font=Roboto%20Flex&ext=activity" alt="LeetCode Stats" />
+    <td valign="top" width="45%">
+      <img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/github-metrics.svg" alt="Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.calendar.svg" alt="Contribution history" width="100%" />
     </td>
-    <td>
-      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tronkishere&show_icons=true&theme=dark&locale=en&layout=compact" alt="tronkishere" /></p>
-      <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tronkishere&theme=dark" alt="tronkishere" /></p>
+    <td valign="top" width="55%">
+      <img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.isocalendar.svg" alt="Contribution calendar" width="100%" />
+      <img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.languages.svg" alt="Languages" width="100%" />
+      <img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.leetcode.svg" alt="LeetCode" width="100%" />
     </td>
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.habits.svg" alt="Habits" width="49%" />
+<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.achievements.svg" alt="Achievements" width="49%" />
 
-</br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tronkishere&theme=dracula" alt="tronkishere" /></a> </p>
+## Stats
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TronkIsHere&theme=2077" alt="Profile Details" style="max-width: 45%;">
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tronkishere&theme=dracula&column=7&margin-w=10" alt="Trophies" /></a>
 
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TronkIsHere&theme=2077" alt="Stats" style="max-width: 45%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TronkIsHere&theme=2077" alt="Stats" style="max-width: 45%;">
-</p>
-
-<p align="center">
-<img src="https://safebooru.org//images/4426/25fe65cbd2f79138d845887dcf2fdbe472fdc439.gif" alt="Centered GIF" style="max-width: 100%; height: auto;">
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/github-metrics.svg" alt="Metrics" width="400""/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TronkIsHere&theme=2077" alt="Profile details" width="100%" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TronkIsHere&theme=2077" alt="Productive time" width="100%" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TronkIsHere&theme=2077" alt="Stats" width="100%" />
+    </td>
+  </tr>
+</table>
