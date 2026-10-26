@@ -42,9 +42,10 @@ jobs:
           filename: metrics.habits.svg
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_days: 14
-          plugin_habits_charts: true
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
           config_timezone: Asia/Ho_Chi_Minh
 
       - uses: lowlighter/metrics@latest
@@ -66,7 +67,7 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_user: nguyenhuutrong11133
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, skills
 
       - uses: lowlighter/metrics@latest
         with:
@@ -79,6 +80,7 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
           plugin_achievements_limit: 8
+          plugin_achievements_secrets: no
 
       - uses: lowlighter/metrics@latest
         with:
