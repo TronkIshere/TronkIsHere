@@ -65,8 +65,8 @@ Fourth-year university student building production systems beyond coursework.
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.habits.svg" alt="Habits" width="49%" />
-<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.achievements.svg" alt="Achievements" width="49%" />
+<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.repositories.svg" alt="Pinned repositories" width="100%" />
+<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.lines.svg" alt="Lines of code" width="100%" />
 
 ## Stats
 
