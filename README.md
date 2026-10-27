@@ -65,12 +65,7 @@ Fourth-year university student building production systems beyond coursework.
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.repositories.svg" alt="Pinned repositories" width="100%" />
-<img src="https://raw.githubusercontent.com/TronkIsHere/TronkIsHere/master/metrics.lines.svg" alt="Lines of code" width="100%" />
-
 ## Stats
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tronkishere&theme=dracula&column=7&margin-w=10" alt="Trophies" /></a>
 
 <table width="100%">
   <tr>
