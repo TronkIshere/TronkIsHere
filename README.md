@@ -1,8 +1,10 @@
-# Nguyễn Hữu Trọng
+# Nguyen Huu Trong
 
 **Software Developer · Mobile, Backend & Assistive Technology**
 
-Fourth-year university student building production systems beyond coursework.
+Fourth-year Information Technology student focused on designing and building practical software systems across mobile, backend, and AI-powered applications.
+
+Interested in backend architecture, applied machine learning, and technology-driven solutions for accessibility.
 
 [![Followers](https://img.shields.io/github/followers/TronkIsHere?style=flat-square&logo=github&label=Followers&color=0d1117&labelColor=161b22)](https://github.com/TronkIsHere)
 [![LeetCode](https://img.shields.io/badge/LeetCode-nguyenhuutrong11133-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=161b22)](https://leetcode.com/u/nguyenhuutrong11133)
@@ -10,6 +12,14 @@ Fourth-year university student building production systems beyond coursework.
 - Full-stack development with Flutter, Spring Boot and Django
 - Assistive technology, speech and ML services, backend architecture
 - Containerized deployment with Docker
+
+## Achievements
+
+- **3rd Place, Best Product & Business** — UniHackFest 2026 · FreelaX
+- **3rd Prize** — VHE Startup Challenge 2026 · V-Braille English
+- **3rd Prize** — Innox 2026 · V-Braille English
+- **Encouragement Prize** — NTTU Innovation Startup Challenge 2026 · WATER-KIT
+- **Encouragement Prize** — Innox 2026 · Autonomous Floating Trash-Collection Boat
 
 ## Tech Stack
 
@@ -46,8 +56,6 @@ Fourth-year university student building production systems beyond coursework.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
-## GitHub Metrics
 
 ## GitHub Metrics
 
